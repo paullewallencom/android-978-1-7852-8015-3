@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Google Glass</string>
+    <string name="title_activity_main">Hello Glass Example</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Menu item strings for Google Glass -->
+    <string name="show_camera">Display the Camera</string>
+    <string name="show_location">Show my location</string>
+    <string name="show_voice">Voice Input</string>
+</resources>

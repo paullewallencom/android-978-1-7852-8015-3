@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">WearNotifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="notification_title">Wearable Notification</string>
+    <string name="basic_notify_msg">This is a basic Notification message</string>
+
+    <string name="notification_button">Send Notification</string>
+    <string name="notification_message">Custom notification message</string>
+
+    <string-array name="voice_choices">
+        <item>OK</item>
+        <item>Great</item>
+        <item>Im not sure</item>
+    </string-array>
+
+</resources>

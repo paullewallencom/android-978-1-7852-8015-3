@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SendReceiveData</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="send_image_button">Send an image to Android Wear</string>
+    <string name="send_message_button">Send the Message to Android Wear</string>
+    <string name="send_message_text">Enter a message to send</string>
+
+</resources>

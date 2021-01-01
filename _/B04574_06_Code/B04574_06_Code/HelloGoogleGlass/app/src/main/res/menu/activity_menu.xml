@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_camera_item"
+        android:title="@string/show_camera">
+    </item>
+    <item
+        android:id="@+id/show_voice_item"
+        android:title="@string/show_voice">
+    </item>
+    <item
+        android:id="@+id/show_location_item"
+        android:title="@string/show_location">
+    </item>
+</menu>
